@@ -1,7 +1,7 @@
 {
     "manufacturer": "asesmero",
     "maintainer": "asesmero",
-    "url": "https://github.com/asesmero"
+    "url": "https://github.com/asesmero",
 
     "usb": {
         "pid": "0x0306",
