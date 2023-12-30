@@ -22,7 +22,7 @@ enum layer_names {
     LAYER_1,
     LAYER_2,
     LAYER_3
-};;
+};
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
